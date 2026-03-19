@@ -63,8 +63,6 @@ b.  KCL:
 
 
 
-
-
 Tabulation:
 
 a.   KVL:
