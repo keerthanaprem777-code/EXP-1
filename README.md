@@ -58,13 +58,38 @@ b.  KCL:
 
 ![WhatsApp Image 2026-03-19 at 1 28 33 PM](https://github.com/user-attachments/assets/800ad5f7-11a9-4936-8a30-ff41864f186a)
 
+
+
+
+
+
+
+
 Tabulation:
 
 a.   KVL:
  ![WhatsApp Image 2026-03-19 at 1 28 33 PM (1)](https://github.com/user-attachments/assets/6861ec60-816e-4181-9400-b88486608bda)
 
+
+
+
+
+
+
+
+
 b.  KCL:
 ![WhatsApp Image 2026-03-19 at 1 37 49 PM](https://github.com/user-attachments/assets/4eb5c20e-0beb-4ab9-8bcc-e4b636638e94)
+
+
+
+
+
+
+
+
+
+
 
 RESULT:
 
